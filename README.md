@@ -1,7 +1,7 @@
 ## About me
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I am a data engineering with 21 years old and Mexican.
+I am a data engineering with 22 years old and Mexican.
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, I will be happy to help;
 
@@ -44,4 +44,5 @@ My passion is artificial intelligence and how it can be applied in business or i
 
 ## Contributions  
 
-[![Github Badge](https://img.shields.io/badge/-@JasonPinelo95-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/JasonPinelo95)[![Github Badge](https://img.shields.io/badge/-@AlexHurtado235-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/AlexHurtado235)[![Github Badge](https://img.shields.io/badge/-@GabrielISB-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Satyajit-Chaudhuri)](https://github.com/GabrielISB)
+[![Github Badge](https://img.shields.io/badge/-@JasonPinelo95-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JasonPinelo95)](https://github.com/JasonPinelo95)[![Github Badge](https://img.shields.io/badge/-@AlexHurtado235-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/AlexHurtado235)](https://github.com/AlexHurtado235)[![Github Badge](https://img.shields.io/badge/-@GabrielISB-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/GabrielISB)](https://github.com/GabrielISB)[![Github Badge](https://img.shields.io/badge/-@Ulises-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Ullises)](https://github.com/Ullises)
+
