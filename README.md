@@ -1,7 +1,6 @@
 ## About me
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 I am a data engineering with 22 years old and Mexican.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, I will be happy to help;
 
