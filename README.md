@@ -37,8 +37,6 @@ My passion is artificial intelligence and how it can be applied in business or i
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adrianc1234&repo=LinkedIn-Scraper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
-<img src="https://snipboard.io/SI5ABs.jpg" width="700" height="400"> 
-
 ---
 
 ## Contributions  
