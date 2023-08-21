@@ -1,45 +1,51 @@
-## About me
-I am a data engineering with 22 years old and Mexican.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- 💼 any freelance work? do reach.
-- 💬 ask me about anything, I will be happy to help;
+<!-- Banner Image -->
+![Data Engineer Banner](https://www.chinasofti.com/u/cms/en/202007/31105903xrho.jpg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adrian_Carmona-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adrian-roberto-carmona-rodriguez)](www.linkedin.com/in/adrian-roberto-carmona-rodriguez)
-[![Website Badge](https://img.shields.io/badge/-My_website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://adrianc1234.github.io/My-profile/)](https://adrianc1234.github.io/My-profile/)
-[![Gmail Badge](https://img.shields.io/badge/-adrianrobertocarmona49-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:adrianrobertocarmona49@gmail.com)
+# 🚀 Professional Profile
 
+I am a dedicated <span style="color: cyan;">Data Engineer</span> with a strong background in developing data-driven solutions and a passion for solving complex real-life problems. My career journey reflects my commitment to teamwork, effective communication, and continuous learning. 🤝📊
 
-## How do i consider myself? 
-I consider myself a person with active thinking and learning strategies with excellent skills for complex problem solving on machine learning and teamwork. On the other hand, I am a creative, innovative and responsible person, besides having skills for programming work.
+## 🌟 Teamwork Philosophy
 
-## My passion
-My passion is artificial intelligence and how it can be applied in business or in more complex problem solving such as computer vision, among other things. Programming is another area that I am more passionate about, so combining them I do what I like the most. As a last point, it is important to mention that I am passionate about English and Chinese, although I am still learning the latter, as well as I am active learning languages, I also love to learn new programming languages. 
+In my professional journey, I've come to understand the significance of teamwork. I firmly believe that communication and cooperation are at the core of achieving our objectives. I always strive to build solid and harmonious working relationships, where respect and trust are foundational values. I genuinely value the ideas and perspectives of my colleagues, and I am always ready to collaborate and compromise to find solutions to the challenges that arise in the work environment. In summary, I consider myself a committed, collaborative, and proactive team member, equipped with strong interpersonal skills that enable me to work effectively with my co-workers. 🤗
 
----
+## 🛠️ Work Experience
 
-## My skills
-[![Adrianc1234 github stats](https://github-readme-stats.vercel.app/api?username=Adrianc1234&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Adrianc1234 github streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrianc1234&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Adrianc1234 github](https://github-profile-trophy.vercel.app/?username=Adrianc1234&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+### <span style="color: cyan;">Rich IT</span> (April 2021 - August 2021)
+**<span style="color: cyan;">Data Engineer</span>**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,docker,python,javascript,mongodb,mysql,postgres,selenium,tensorflow,vim" />
-  </a>
-</p>
+- Developed algorithms for artificial vision, designed to extract relevant information from official documents like the INE and CURP.
+- Implemented and used classes for deployment within various environments.
+- Skills: GraphQL, Dgraph, TensorFlow, Neurolinguistic Programming (NLP), OCR, Optical Character Recognition, Artificial Neural Networks, Docker, Python, SQL
 
-## 🗂️ Highlight Projects
+### <span style="color: cyan;">Scale AI | CA</span> (Nov 2021 - Jun 2022)
+**<span style="color: cyan;">Parser Engineer</span>**
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adrianc1234&repo=Portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
+- Developed applications and scrapers for Shopify to enhance sales and market analysis of products across multiple pages.
+- Utilized Node.js-based crawlers to gather extensive information and construct a comprehensive dataset.
+- Skills: TypeScript, English, Java, JavaScript, Python
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adrianc1234&repo=LinkedIn-Scraper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
+### <span style="color: cyan;">Urdaten</span> (Oct 2022 - Jul 2023)
+**<span style="color: cyan;">Data Engineer</span>**
 
----
+- Developed applications and pipelines specialized in financial reporting.
+- Implemented connections between the cloud, APIs, and microservices.
+- Generated functional environments within Docker for backend application execution.
+- Skills: GraphQL, Dgraph, TensorFlow, Neurolinguistic Programming (NLP), OCR, Optical Character Recognition, Artificial Neural Networks, Docker, Python, SQL, Data Processing, APIs, Google Cloud (training), Pyspark, Spark (25%)
 
-## Contributions  
+### <span style="color: cyan;">Tech4Nature Huawei & C Minds</span> (Sep 2022 - May 2023)
+**<span style="color: cyan;">Machine Learning Engineer</span>**
 
-[![Github Badge](https://img.shields.io/badge/-@JasonPinelo95-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JasonPinelo95)](https://github.com/JasonPinelo95)[![Github Badge](https://img.shields.io/badge/-@AlexHurtado235-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/AlexHurtado235)](https://github.com/AlexHurtado235)[![Github Badge](https://img.shields.io/badge/-@GabrielISB-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/GabrielISB)](https://github.com/GabrielISB)[![Github Badge](https://img.shields.io/badge/-@Ulises-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Ullises)](https://github.com/Ullises)
+- Designed a YOLO v7 neural network for jaguar identification and monitoring within the Huawei Cloud.
+- Aiming to provide monitoring software to biologists in Yucatan to aid in species preservation.
+- Skills: OpenCV, TensorFlow, Huawei Cloud, Model Arts, Docker, Keras, Nvidia Docker, APIs
 
+## 📚 Technical Expertise
+
+- Proficient in <span style="color: cyan;">Python</span> and RESTful API development
+- Experienced in <span style="color: cyan;">Dgraph, GraphQL, PostgreSQL, SQL</span> ETL pipelines
+- Skilled in <span style="color: cyan;">Data Engineering and processing, Machine Learning Algorithms</span>
+- Familiar with <span style="color: cyan;">Docker engine</span>
+- Proficient in <span style="color: cyan;">Web scraping and Micro-services</span>
+- Experienced with <span style="color: cyan;">Git</span>
+- <span style="color: cyan;">Google Cloud</span> expertise 🧠☁️
