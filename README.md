@@ -16,14 +16,14 @@ In my professional journey, I've come to understand the significance of teamwork
 
 - Developed algorithms for artificial vision, designed to extract relevant information from official documents like the INE and CURP.
 - Implemented and used classes for deployment within various environments.
-- Skills: GraphQL, Dgraph, TensorFlow, Neurolinguistic Programming (NLP), OCR, Optical Character Recognition, Artificial Neural Networks, Docker, Python, SQL
+- **Skills:** <em>GraphQL, Dgraph, TensorFlow, Neurolinguistic Programming (NLP), OCR, Optical Character Recognition, Artificial Neural Networks, Docker, Python, SQL</em>
 
 ### <span style="color: cyan;">Scale AI | CA</span> (Nov 2021 - Jun 2022)
 **<span style="color: cyan;">Parser Engineer</span>**
 
 - Developed applications and scrapers for Shopify to enhance sales and market analysis of products across multiple pages.
 - Utilized Node.js-based crawlers to gather extensive information and construct a comprehensive dataset.
-- Skills: TypeScript, English, Java, JavaScript, Python
+- **Skills:** <em>TypeScript, English, Java, JavaScript, Python</em>
 
 ### <span style="color: cyan;">Urdaten</span> (Oct 2022 - Jul 2023)
 **<span style="color: cyan;">Data Engineer</span>**
@@ -31,14 +31,14 @@ In my professional journey, I've come to understand the significance of teamwork
 - Developed applications and pipelines specialized in financial reporting.
 - Implemented connections between the cloud, APIs, and microservices.
 - Generated functional environments within Docker for backend application execution.
-- Skills: GraphQL, Dgraph, TensorFlow, Neurolinguistic Programming (NLP), OCR, Optical Character Recognition, Artificial Neural Networks, Docker, Python, SQL, Data Processing, APIs, Google Cloud (training), Pyspark, Spark (25%)
+- **Skills:** <em>GraphQL, Dgraph, TensorFlow, Neurolinguistic Programming (NLP), OCR, Optical Character Recognition, Artificial Neural Networks, Docker, Python, SQL, Data Processing, APIs, Google Cloud (training), Pyspark, Spark (25%)</em>
 
 ### <span style="color: cyan;">Tech4Nature Huawei & C Minds</span> (Sep 2022 - May 2023)
 **<span style="color: cyan;">Machine Learning Engineer</span>**
 
 - Designed a YOLO v7 neural network for jaguar identification and monitoring within the Huawei Cloud.
 - Aiming to provide monitoring software to biologists in Yucatan to aid in species preservation.
-- Skills: OpenCV, TensorFlow, Huawei Cloud, Model Arts, Docker, Keras, Nvidia Docker, APIs
+- **Skills:** <em>OpenCV, TensorFlow, Huawei Cloud, Model Arts, Docker, Keras, Nvidia Docker, APIs</em>
 
 ## 📚 Technical Expertise
 
